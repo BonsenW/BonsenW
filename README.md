@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonsenw" alt="bonsenw" /></a> </p>
 
-- 🔭 Currently working on a choose-your-own-adventure 2D game, centred around travelling to, from, and within the Monash Campus. [MonashSim](https://github.com/orgs/TeamGrowlinGang/repositories)
-
+- 🔭 Currently working on a choose-your-own-adventure game centered around the Monash experience: [MonashSim](https://github.com/orgs/TeamGrowlinGang/repositories)
 - 🌱 Currently learning **Tauri, Data Science & Machine Learning Basics**
 
 <h3 align="left">Connect with me:</h3>
