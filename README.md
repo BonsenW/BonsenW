@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bonsen</h1>
 <h3 align="center">A passionate full stack software engineer and game developer</h3>
 
+Currently working on a choose-your-own-adventure game centered around the Monash experience: [MonashSim](https://github.com/orgs/TeamGrowlinGang/repositories)
+
 - 👩🏽‍💻 Studying Computer Science @ Monash
 - 🕹️ Hobby Game Developer & Video Editor
 - 🌱 Learning **Data Science, Machine Learning & Tauri**
 
-Currently working on a choose-your-own-adventure game centered around the Monash experience: [MonashSim](https://github.com/orgs/TeamGrowlinGang/repositories)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonsenw&label=Profile%20views&color=0e75b6&style=flat" alt="bonsenw" /> </p> 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bonsen-wakjira) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bzybx) [![Profile Views](https://komarev.com/ghpvc/?username=bonsenw&label=Profile%20views&color=0e75b6&style=flat)]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bonsen-wakjira) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bzybx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
