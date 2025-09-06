@@ -15,21 +15,13 @@ Currently working on a choose-your-own-adventure game centered around the Monash
 
 # 📊 GitHub Stats:
 
-
-![](https://github-readme-stats.vercel.app/api?username=BonsenW&theme=dark&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=BonsenW&theme=dark&hide_border=true) ![](https://github-contributor-stats.vercel.app/api?username=BonsenW&limit=5&theme=dark&combine_all_yearly_contributions=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BonsenW&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<table style="border: none; width: 100%; text-align: center;">
+<table>
   <tr>
-    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=BonsenW&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /></td>
-    <td style="border: none;"><img src="https://nirzak-streak-stats.vercel.app/?user=BonsenW&theme=dark&hide_border=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=BonsenW&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=BonsenW&theme=dark&hide_border=true" /></td>
   </tr>
   <tr>
-    <td style="border: none;"><img src="https://github-contributor-stats.vercel.app/api?username=BonsenW&limit=5&theme=dark&combine_all_yearly_contributions=true" /></td>
-    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonsenW&theme=dark&hide_border=true&layout=compact" /></td>
+    <td><img src="https://github-contributor-stats.vercel.app/api?username=BonsenW&limit=5&theme=dark&combine_all_yearly_contributions=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonsenW&theme=dark&hide_border=true&layout=compact" /></td>
   </tr>
 </table>
-
-| Stats 1 | Stats 2 |
-|---------|---------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BonsenW&theme=dark&hide_border=true&include_all_commits=true&count_private=true) | ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=BonsenW&theme=dark&hide_border=true) |
-| ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=BonsenW&limit=5&theme=dark&combine_all_yearly_contributions=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BonsenW&theme=dark&hide_border=true&layout=compact) |
