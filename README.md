@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bonsen</h1>
 <h3 align="center">A passionate full stack software engineer and game developer</h3>
 
+- 👩🏽‍💻 Studying Computer Science @ Monash
+- 🕹️ Hobby Game Developer & Video Editor
+- 🌱 Learning **Data Science, Machine Learning & Tauri**
+
+Currently working on a choose-your-own-adventure game centered around the Monash experience: [MonashSim](https://github.com/orgs/TeamGrowlinGang/repositories)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonsenw&label=Profile%20views&color=0e75b6&style=flat" alt="bonsenw" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonsenw" alt="bonsenw" /></a> </p>
-
-- 🔭 Currently working on a choose-your-own-adventure game centered around the Monash experience: [MonashSim](https://github.com/orgs/TeamGrowlinGang/repositories)
-- 🌱 Currently learning **Tauri, Data Science & Machine Learning Basics**
+- 🔭 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,8 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bonsenw&" alt="bonsenw" /></p>
 
-# 💫 About Me:
-👩🏽‍💻 Studying Computer Science @ Monash<br>🕹️ Hobby Game Developer & Video Editor<br>🌱 Learning Data Science, Machine Learning & Tauri
+
 
 
 ## 🌐 Socials:
