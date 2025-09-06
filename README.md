@@ -28,3 +28,8 @@ Currently working on a choose-your-own-adventure game centered around the Monash
     <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonsenW&theme=dark&hide_border=true&layout=compact" /></td>
   </tr>
 </table>
+
+| Stats 1 | Stats 2 |
+|---------|---------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BonsenW&theme=dark&hide_border=true&include_all_commits=true&count_private=true) | ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=BonsenW&theme=dark&hide_border=true) |
+| ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=BonsenW&limit=5&theme=dark&combine_all_yearly_contributions=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BonsenW&theme=dark&hide_border=true&layout=compact) |
