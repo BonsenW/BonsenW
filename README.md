@@ -18,27 +18,13 @@ Currently working on a choose-your-own-adventure game centered around the Monash
 
 ![](https://github-readme-stats.vercel.app/api?username=BonsenW&theme=dark&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=BonsenW&theme=dark&hide_border=true) ![](https://github-contributor-stats.vercel.app/api?username=BonsenW&limit=5&theme=dark&combine_all_yearly_contributions=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BonsenW&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<table>
+<table style="border: none; width: 100%; text-align: center;">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=BonsenW&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=BonsenW&theme=dark&hide_border=true""/></td>
+    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=BonsenW&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /></td>
+    <td style="border: none;"><img src="https://nirzak-streak-stats.vercel.app/?user=BonsenW&theme=dark&hide_border=true" /></td>
   </tr>
   <tr>
-    <td><img src="https://github-contributor-stats.vercel.app/api?username=BonsenW&limit=5&theme=dark&combine_all_yearly_contributions=true"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonsenW&theme=dark&hide_border=true&layout=compact"/></td>
+    <td style="border: none;"><img src="https://github-contributor-stats.vercel.app/api?username=BonsenW&limit=5&theme=dark&combine_all_yearly_contributions=true" /></td>
+    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonsenW&theme=dark&hide_border=true&layout=compact" /></td>
   </tr>
 </table>
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=BonsenW&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=BonsenW&theme=dark&hide_border=true" height="150"/>
-<img src="https://github-contributor-stats.vercel.app/api?username=BonsenW&limit=5&theme=dark&combine_all_yearly_contributions=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonsenW&theme=dark&hide_border=true&layout=compact" height="150"/>
-
-###
-
-<img src="https://github-readme-stats.vercel.app/api?username=BonsenW&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=BonsenW&theme=dark&hide_border=true"/>
-<img src="https://github-contributor-stats.vercel.app/api?username=BonsenW&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonsenW&theme=dark&hide_border=true&layout=compact"/>
