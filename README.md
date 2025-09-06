@@ -9,7 +9,7 @@ Currently working on a choose-your-own-adventure game centered around the Monash
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonsenw&label=Profile%20views&color=0e75b6&style=flat" alt="bonsenw" /> </p> 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bonsen-wakjira) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bzybx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bonsen-wakjira) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bzybx) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,3 +44,5 @@ Currently working on a choose-your-own-adventure game centered around the Monash
 [![](https://visitcount.itsvg.in/api?id=BonsenW&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
