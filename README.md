@@ -4,11 +4,11 @@
 
 I'm a passionate full stack software engineer and game developer
 
-- 👩🏽‍💻 Studying Computer Science @ Monash
+- 👩🏽‍💻 Graduated Computer Science From Monash
 - 🕹️ Hobby Game Developer & Video Editor
-- 🌱 Currently learning **Data Science, Machine Learning & Tauri**
+- 🌱 Currently building a **Screen Blocking & Productivity App**
 
-Actively working on **TBA**
+Actively working on **Zone App**
 
 # 💻 Tech Stack
 
